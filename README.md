@@ -11,7 +11,7 @@ Python 3.x
 git clone https://github.com/somespi/meliora.git
 ```
 
-2. Change into the project directory:
+2. Change into the project directory (Do it twice, one to enter the project directory and the other for entring the src):
 ```shell
 cd meliora
 ```
