@@ -41,3 +41,6 @@ pip install -e .
 ```shell
 python -m meliora <DIRECTORY_PATH>
 ```
+
+
+> Note: If you have any suggestions for adding a feature, you can open a PR even if you don't want to contribute, but just naming and descriping it! 
