@@ -1,11 +1,11 @@
-<center>
+<p align="center" width="100%">
 <img src="./images/logo.svg" width="200">
-
+<br><br>
 meliora is a command-line tool for sorting files based on their content. that's it. 
-
-
+<br>
 <img src="./images/hero.svg" width="800">
-</center>
+</p>
+
 
 ## Requirements
 Python 3.x
