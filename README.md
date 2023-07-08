@@ -1,5 +1,9 @@
-# meliora
+<center><img src="./images/logo.svg" width="200">
+
 meliora is a command-line tool for sorting files based on their content. that's it. 
+
+
+<img src="./images/hero.svg" width="800"></center>
 
 ## Requirements
 Python 3.x
@@ -16,6 +20,9 @@ git clone https://github.com/somespi/meliora.git
 cd meliora
 ```
 
+
+
+
 3. Install the required dependencies:
 ```shell
 pip install -r requirements.txt
@@ -27,6 +34,7 @@ pip install -r requirements.txt
 python -m spacy download en_core_web_md
 ```
 5. Install meliora:
+
 - If you want to install it globally:
 ```shell
 pip install .
@@ -41,3 +49,4 @@ pip install -e .
 ```shell
 python -m meliora <DIRECTORY_PATH>
 ```
+
