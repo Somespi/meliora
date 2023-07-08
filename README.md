@@ -1,9 +1,11 @@
-<center><img src="./images/logo.svg" width="200">
+<center>
+<img src="./images/logo.svg" width="200">
 
 meliora is a command-line tool for sorting files based on their content. that's it. 
 
 
-<img src="./images/hero.svg" width="800"></center>
+<img src="./images/hero.svg" width="800">
+</center>
 
 ## Requirements
 Python 3.x
@@ -16,6 +18,23 @@ Python 3.x
 git clone https://github.com/somespi/meliora.git
 ```
 
+<details>
+<summary>Installing using <code>meliora-setup</code></summary> 
+
+2. Change into the project directory
+```shell
+cd meliora
+```` 
+
+3. run `meliora-setup.py` 
+```shell
+python meliora-setup.py
+```
+<br>
+</details>
+
+<details>
+<summary>Installing Manually</summary> 
 2. Change into the project directory (**Do it twice**, one to enter the project directory and the other for entring the src):
 ```shell
 cd meliora
@@ -38,6 +57,10 @@ python -m spacy download en_core_web_md
 
 5. Install meliora:
 
+```shell 
+cd ..
+```
+
 - If you want to install it globally:
 ```shell
 pip install .
@@ -53,3 +76,4 @@ pip install -e .
 python -m meliora <DIRECTORY_PATH>
 ```
 
+</details>
