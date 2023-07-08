@@ -15,7 +15,7 @@ Python 3.x
 git clone https://github.com/somespi/meliora.git
 ```
 
-2. Change into the project directory (Do it twice, one to enter the project directory and the other for entring the src):
+2. Change into the project directory (**Do it twice**, one to enter the project directory and the other for entring the src):
 ```shell
 cd meliora
 ```
@@ -33,6 +33,8 @@ pip install -r requirements.txt
 ```shell
 python -m spacy download en_core_web_md
 ```
+
+
 5. Install meliora:
 
 - If you want to install it globally:
