@@ -35,7 +35,10 @@ python meliora-setup.py
 
 <details>
 <summary>Installing Manually</summary> 
+
+
 2. Change into the project directory (**Do it twice**, one to enter the project directory and the other for entring the src):
+
 ```shell
 cd meliora
 ```
